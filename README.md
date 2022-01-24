@@ -1,4 +1,4 @@
-https://github.com/pfgithub/w4test
+# https://github.com/pfgithub/w4test ← wasm4image is there in src/imgconv.zig
 
 # wasm4image
 image converter and compressor for wasm4 zig
